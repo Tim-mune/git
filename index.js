@@ -1,2 +1,3 @@
 console.log("hello git");
-document.getElementById
+document.getElementById("")
+document.querySelector("")
